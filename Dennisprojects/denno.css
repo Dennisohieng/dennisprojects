@@ -1,0 +1,43 @@
+/*Element Selector - Styles all elememts of this type */
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Heading Selectors */
+h1{
+    color: #333;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+ }
+ h2{
+    color:#007bff;
+ }
+ /* Class Selector */
+ .skill-list {
+    background-color: #e9ecef;
+    padding: 15px;
+    border-radius: 15px;
+ }
+ /* ID Selector */
+ #pojects {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+ }
+ /* Text Styling */
+ p{
+    color: #666;
+    font-size: 16px;
+ }
+ /* Link Styling */
+ a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+ }
